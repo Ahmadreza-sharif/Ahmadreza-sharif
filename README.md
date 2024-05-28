@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmad Sharif</h1>
-<h3 align="center">I'm Happy Laravel Developer From Iran.</h3>
+<h3 align="center">I'm Happy Laravel Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadreza-sharif&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadreza-sharif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadreza-sharif&theme=dracula" alt="ahmadreza-sharif" /></a> </p>
 
 - 🔭 I’m currently working on [ERP of metanext](metanext.biz)
-- 🌱 I’m currently learning **Docker And Golang**
 - 💬 Ask me about **Laravel And PHP**
 - 📫 How to reach me **sharif.org@yahoo.com**
 
